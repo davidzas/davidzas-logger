@@ -1,5 +1,5 @@
 # Davidzas' Logger
-This logger demo was developed using express 3
+This logger demo was developed using express 4
 
 ## Installation
 ```bash
